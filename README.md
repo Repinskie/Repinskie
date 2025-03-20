@@ -22,10 +22,4 @@ I'm a **Java Backend Developer** I have experience primarily in the **retail dom
 - **Docker**
 - **Hibernate**
 
----
-
-## 📞 Contact Me
-
-- **LinkedIn:** [Michael Repinsky](https://linkedin.com/in/michael-repinsky-aaa9842b4)
-- **Email:** [mihailrepinskie9999@icloud.com](mailto:mihailrepinskie9999@icloud.com)
 
