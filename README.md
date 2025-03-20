@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Michael!
 
-I'm a **Java Backend Developer** with **3 years of experience**, primarily in the **retail domain**. I have a proven track record of delivering robust backend systems, including both **microservices** and **monoliths**. My expertise lies in **Java** and the **Spring Framework**, and I'm always eager to expand my skill set.
+I'm a **Java Backend Developer** I have experience primarily in the **retail domain**. I have a proven track record of delivering robust backend systems, including both **microservices** and **monoliths**. My expertise lies in **Java** and the **Spring Framework**, and I'm always eager to expand my skill set.
 
 ---
 
